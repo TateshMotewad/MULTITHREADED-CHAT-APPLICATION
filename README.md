@@ -154,4 +154,5 @@ This project helps students and developers understand how real-time messaging sy
 
 ##OUTPUT
 --------
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/038fc035-3f51-42f7-bc6f-46145d2eb060" />
 
